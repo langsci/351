@@ -1,7 +1,7 @@
 # A grammar of Fwe
 ## Publication Info
 - Authors: Hilde Gunnink
-- Publication Date: not yet published
+- Publication Date: 2022
 - Series: algad
 ## Description
 [Book page on langsci-press.org](http://langsci-press.org/catalog/book/351)
